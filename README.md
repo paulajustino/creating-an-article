@@ -9,7 +9,7 @@
 - [ChatGPT](https://chat.openai.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts used to create the ebook:
+## 🧠 Prompts used to create the article:
 
 ChatGPT：
 
